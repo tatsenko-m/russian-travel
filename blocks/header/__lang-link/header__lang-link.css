@@ -8,7 +8,7 @@
   color: #fff;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  margin: 0 18px 0 0;
+  margin: 0;
   padding: 0;
   opacity: 1;
   transition: opacity 1s;
@@ -16,10 +16,6 @@
 
 .header__lang-link:hover {
   opacity: 0.8;
-}
-
-.header__lang-link:last-of-type {
-  margin-right: 0;
 }
 
 @media screen and (max-width: 320px) {
