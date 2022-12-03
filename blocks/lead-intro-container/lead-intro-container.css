@@ -1,4 +1,4 @@
-.lead__card {
+.lead-intro-container {
   width: 984px;
   display: flex;
   flex-direction: column;
@@ -6,13 +6,13 @@
 }
 
 @media screen and (max-width: 1024px) {
-  .lead__card {
+  .lead-intro-container {
     width: calc(100vw - (48px*2));
   }
 }
 
 @media screen and (max-width: 864px) {
-  .lead__card {
+  .lead-intro-container {
     width: 100vw;
   }
 }
