@@ -1,5 +1,5 @@
 .lead-intro-container {
-  width: 984px;
+  max-width: 984px;
   display: flex;
   flex-direction: column;
   margin: 0 auto;
