@@ -8,3 +8,13 @@
   grid-row: 1;
   align-self: end;
 }
+
+@media screen and (max-width: 720px) {
+  .place__website {
+    grid-column: 1;
+    grid-row: 2;
+    align-self: stretch;
+    width: 90%;
+    margin: 0 auto;
+  }
+}

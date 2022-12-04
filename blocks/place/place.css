@@ -7,3 +7,30 @@
   column-gap: 40px;
   row-gap: 48px;
 }
+
+@media screen and (max-width: 1024px) {
+  .place {
+    min-height: 564px;
+    grid-template-columns: 440px fit-content(456px);
+    column-gap: 32px;
+  }
+}
+
+@media screen and (max-width: 928px) {
+  .place {
+    min-height: 434px;
+    grid-template-columns: 340px fit-content(352px);
+    grid-template-rows: fit-content(92px) max-content;
+    column-gap: 28px;
+  }
+}
+
+@media screen and (max-width: 720px) {
+  .place {
+    min-height: auto;
+    grid-template-columns: 100%;
+    grid-template-rows: repeat(4, max-content);
+    column-gap: 0;
+    row-gap: 32px;
+  }
+}
