@@ -1,0 +1,13 @@
+.cover__text {
+  display: flex;
+  flex-direction: column;
+  font-family: 'Inter', 'Arial', sans-serif;
+  font-style: normal;
+  text-align: center;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  row-gap: 32px;
+  max-width: fit-content;
+  align-items: center;
+  z-index: 1;
+}
