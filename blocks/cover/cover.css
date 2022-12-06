@@ -6,3 +6,9 @@
   margin: 0 auto;
   box-sizing: border-box;
 }
+
+@media screen and (max-width: 320px) {
+  .cover {
+    padding-top: 66px;
+  }
+}

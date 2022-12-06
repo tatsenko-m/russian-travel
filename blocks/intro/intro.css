@@ -32,7 +32,6 @@
     padding-top: 64px;
     width: calc(100vw - (16px*2));
     max-width: 288px;
-    margin: 0 auto;
   }
 }
 
