@@ -8,12 +8,6 @@
   grid-row: 2;
 }
 
-@media screen and (max-width: 768px) {
-  .place__text {
-    row-gap: 25px;
-  }
-}
-
 @media screen and (max-width: 720px) {
   .place__text {
     grid-column: 1;
