@@ -1,12 +1,21 @@
 .lead {
+  max-width: 984px;
   display: flex;
   flex-direction: column;
   padding: 56px 0 0 0;
   box-sizing: border-box;
+  margin: 0 auto;
 }
 
 @media screen and (max-width: 1024px) {
   .lead {
     padding: 48px 0 0 0;
+    width: calc(100vw - (48px*2));
+  }
+}
+
+@media screen and (max-width: 864px) {
+  .lead {
+    width: 100vw;
   }
 }
