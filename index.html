@@ -172,7 +172,12 @@
         <li><a class="footer__link" href="https://travel.yandex.ru" target="_blank">Путешествия</a></li>
       </ul>
     </nav>
-    <p class="footer__copyright">&copy; 2022. Михаил Таценко</p>
+    <p class="footer__copyright"></p>
   </footer>
+  <script>
+    const year = new Date().getFullYear();
+    const copyrightElement = document.querySelector('.footer__copyright');
+    copyrightElement.innerHTML = '&copy; ' + year + '. Михаил Таценко';
+  </script>
 </body>
 </html>
