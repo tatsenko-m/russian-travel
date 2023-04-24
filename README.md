@@ -1,6 +1,6 @@
 <p align="center">
   <picture>
-    <img src="./docs/project-logo.svg" width="300" alt="Лого проекта">
+    <img src="https://raw.githubusercontent.com/tatsenko-m/russian-travel/33c256e5089c55543435e5a4127c30082bae7119/docs/project-logo.svg" width="300" alt="Лого проекта">
   </picture>
 </p>
 
@@ -12,7 +12,7 @@
 
 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)](https://tatsenko-m.github.io/russian-travel/)
 
-<picture><img src="./docs/russian-travel-demo.png" alt="banner that says Mikhail Tatsenko - Front-end Developer"></picture>
+<picture><img src="https://raw.githubusercontent.com/tatsenko-m/russian-travel/main/docs/russian-travel-demo.png" alt="Изображение открытого сайта на двух устройствах"></picture>
 
 ## Функциональность
 - Чтение текста
