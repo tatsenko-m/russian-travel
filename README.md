@@ -34,7 +34,7 @@
 ## Инструкция по установке
 ```bash
 # Клонируем репозиторий
-git clone https://github.com/tatsenko-m/russian-travel
+git clone https://github.com/tatsenko-m/russian-travel.git
 # Заходим в папку с проектом
 cd russian-travel
 ```
