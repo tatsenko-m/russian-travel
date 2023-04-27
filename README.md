@@ -1,6 +1,7 @@
 <p align="center">
   <picture>
-    <img src="https://raw.githubusercontent.com/tatsenko-m/russian-travel/33c256e5089c55543435e5a4127c30082bae7119/docs/project-logo.svg" width="300" alt="Лого проекта">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tatsenko-m/russian-travel/1dc12a42e4a733587000982ac47dd08e13bce2d8/docs/project-logo-dark.svg">
+    <img src="https://raw.githubusercontent.com/tatsenko-m/russian-travel/1dc12a42e4a733587000982ac47dd08e13bce2d8/docs/project-logo-light.svg" width="300" alt="Лого проекта">
   </picture>
 </p>
 
@@ -19,7 +20,7 @@
 - Просмотр фотографий
 - Ссылки, в том числе в виде интерактивной обложки
 - Адаптивная верстка: сайтом удобно пользоваться на любом устройстве
-- Возможность перелючаться между русской и английской версиями
+- Возможность переключаться между русской и английской версиями
 
 ## Технологии
 * Флексбокс-вёрстка
